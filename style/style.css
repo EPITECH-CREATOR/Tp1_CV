@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Questrial&display=swap');
+@import url(https://fr.allfont.net/allfont.css?fonts=clear-sans);
+.first{
+    height: 200px;
+    background-color: #ced7df;
+    text-align: justify;
+}
+.pic{
+    height: 350px;
+    width: 900px;
+    border-bottom: 3px  #ced7df solid;
+    margin: auto;
+    transform: translateY(-100px);
+    text-align: center;
+    font-family: Questrial;
+}
+
+.pic h2{
+    font-size: 2em;
+}
+.pic h4{
+    color: #858585;
+    font-weight: 5px;
+    font-family: clear-sans;
+}

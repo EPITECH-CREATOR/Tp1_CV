@@ -1,0 +1,6 @@
+Notion à maîtriser:
+comment initialiser un div;
+comment personnaliser une div (modifier la postion, modifier la taille, ajouter une coleur);
+comment ajouter une liste;
+comment importer une police et comment personnaliser la police : avec (google font ou https://fr.allfont.net);
+comment ajouter une icone: avec (icones8);
