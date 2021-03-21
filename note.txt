@@ -4,3 +4,4 @@ comment personnaliser une div (modifier la postion, modifier la taille, ajouter 
 comment ajouter une liste;
 comment importer une police et comment personnaliser la police : avec (google font ou https://fr.allfont.net);
 comment ajouter une icone: avec (icones8);
+comment heberger un site (sur 000webhost)
